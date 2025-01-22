@@ -1,0 +1,14 @@
+#tism-header-main-container > div.col-6.col-lg-5.col-xl-8 > div > div:nth-child(1),
+#footer-section > div.cennter > div:nth-child(2),
+#footerbtn
+{
+    display: none !important;
+}
+
+#scroll-container{
+    height: 700px !important;
+}
+/* 
+#beige-section {
+    margin-top: 300px;
+} */
